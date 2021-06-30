@@ -16,7 +16,7 @@ Além das setas de navegação, as seguintes teclas funcionam:
 
 • Del – apaga um caracter (sob o cursor);
 
-• Insert
+• Insert - 
   ligado: Insere novos caracteres; 
   desligado: escreve em cima dos caracteres existentes.
   
