@@ -17,6 +17,9 @@ Além das setas de navegaçãoAs seguintes teclas deveram funcionar, as setas de
 
 Outras funcionalidades:
 • É possível pressionar enter no meio de uma linha e assim criar outra abaixo cujo conteúdo são as letras a partir do cursor.
+
 • O usuário pode formatar o texto e continuar digitando com ele formatado, de modo que se a palavra digitada couber na linha superior ela será puxada a não ser que essa linha seja   final de parágrafo.
-• Quando os parâmetros de formatação estão definidos não é possível adicionar vários espaços consecutivos, pois o espaçamento entre as palavras será ajustado conforme a             formatação. 
-• Ao pressionar o Backspace caso o cursor esteja posicionado na primeira letra da linha corrente seu conteúdo será jogado para a linha superior (o quanto couber). E assim se a       linha ficar vazia ela será removida do editor.
+
+• Quando os parâmetros de formatação estão definidos não é possível adicionar vários espaços consecutivos, pois o espaçamento entre as palavras será ajustado conforme a  formatação. 
+
+• Ao pressionar o Backspace caso o cursor esteja posicionado na primeira letra da linha corrente seu conteúdo será jogado para a linha superior (o quanto couber). E assim se a linha ficar vazia ela será removida do editor.
