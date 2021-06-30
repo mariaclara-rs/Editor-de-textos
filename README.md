@@ -1,4 +1,4 @@
-# Editor-de-textos-com-listas-encadeadas-e-lista-generalizada-de-palavras
+# Editor de textos com listas encadeadas e lista generalizada de palavras
 
 Além das setas de navegaçãoAs seguintes teclas deveram funcionar, as setas de funcionam:
 • Home – coloca o cursor no início da linha corrente (dada pelo ponteiro
