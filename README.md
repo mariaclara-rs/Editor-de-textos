@@ -3,15 +3,22 @@
 Além das setas de navegaçãoAs seguintes teclas deveram funcionar, as setas de funcionam:
 • Home – coloca o cursor no início da linha corrente (dada pelo ponteiro
   linha);
+  
 • End – coloca o cursor no final da linha corrente (dada pelo ponteiro
   linha);
+  
 • Page Up – rolagem de uma tela para cima;
+
 • Page Down – rolagem de uma tela para baixo;
+
 • Back Space – apaga um caracter (à esquerda do cursor);
+
 • Del – apaga um caracter (sob o cursor);
+
 • Insert
   ligado: Insere novos caracteres; 
   desligado: escreve em cima dos caracteres existentes.
+  
 • F10 – Negrito: o caracter § (21 da tabela ASCII) indica início ou fim
   de uma palavra ou trecho em Negrito.
 
