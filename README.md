@@ -1,6 +1,7 @@
 # Editor de textos com listas encadeadas e lista generalizada de palavras
 
 Além das setas de navegaçãoAs seguintes teclas deveram funcionar, as setas de funcionam:
+
 • Home – coloca o cursor no início da linha corrente (dada pelo ponteiro
   linha);
   
@@ -23,6 +24,7 @@ Além das setas de navegaçãoAs seguintes teclas deveram funcionar, as setas de
   de uma palavra ou trecho em Negrito.
 
 Outras funcionalidades:
+
 • É possível pressionar enter no meio de uma linha e assim criar outra abaixo cujo conteúdo são as letras a partir do cursor.
 
 • O usuário pode formatar o texto e continuar digitando com ele formatado, de modo que se a palavra digitada couber na linha superior ela será puxada a não ser que essa linha seja   final de parágrafo.
