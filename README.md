@@ -36,4 +36,5 @@ Outras funcionalidades:
 
 • Ao pressionar o Backspace e caso o cursor esteja posicionado na primeira letra da linha corrente seu conteúdo será jogado para a linha superior (o quanto couber). E assim se a linha ficar vazia ela será removida do editor.
 
-• Ao digitar as iniciais de uma palavra, o algoritmo indica uma palavra já  conhecida, armazenada na estrutura. A cada nova palavra digitada com mais de dois caracteres, essa deverá ser inserida na lista generalizada, para o algoritmo “aprender”
+
+Ao digitar as iniciais de uma palavra, o algoritmo indica uma palavra já  conhecida, armazenada na estrutura. A cada nova palavra digitada com mais de dois caracteres, essa deverá ser inserida na lista generalizada, para o algoritmo “aprender”
