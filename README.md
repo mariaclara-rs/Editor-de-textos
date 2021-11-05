@@ -4,7 +4,7 @@ Funcionalidades:
 
 Além das setas de navegação, as seguintes teclas funcionam:
 
-• Home – coloca o cursor no início da linha corrente (dada pelo ponteiro linha);
+• Home – coloca o cursor no início da linha corrente (dada pelo ponteiro linha);\n
 • End – coloca o cursor no final da linha corrente (dada pelo ponteiro linha);
 • Page Up – rolagem de uma tela para cima;
 • Page Down – rolagem de uma tela para baixo;
