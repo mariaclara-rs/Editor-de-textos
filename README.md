@@ -1,7 +1,5 @@
 # Editor de textos com listas encadeadas e lista generalizada de palavras
 
-![Captura de tela 2021-11-05 175601](https://user-images.githubusercontent.com/63561594/140577691-2f54c8ea-6c5a-4925-bff7-2727a9d2c551.png)
-
 Funcionalidades:
 
 Além das setas de navegação, as seguintes teclas funcionam:
@@ -32,3 +30,5 @@ Além das setas de navegação, as seguintes teclas funcionam:
 • Ao pressionar o Backspace e caso o cursor esteja posicionado na primeira letra da linha corrente seu conteúdo será jogado para a linha superior (o quanto couber). E assim se a linha ficar vazia ela será removida do editor.
 
 Ao digitar as iniciais de uma palavra, o algoritmo indica uma palavra já  conhecida, armazenada na estrutura. A cada nova palavra digitada com mais de dois caracteres, essa deverá ser inserida na lista generalizada, para o algoritmo “aprender”
+
+![Captura de tela 2021-11-05 175601](https://user-images.githubusercontent.com/63561594/140577691-2f54c8ea-6c5a-4925-bff7-2727a9d2c551.png)
